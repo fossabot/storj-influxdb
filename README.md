@@ -1,6 +1,7 @@
 ## connector-influxdb (uplink v1.0.5)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/utropicmedia/storj-influxdb)](https://goreportcard.com/report/github.com/utropicmedia/storj-influxdb)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Futropicmedia%2Fstorj-influxdb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Futropicmedia%2Fstorj-influxdb?ref=badge_shield)
 
 ## Overview
 
@@ -95,3 +96,7 @@ For more information on runtime flags, configuration, testing, and diagrams, che
 * [Testing](//github.com/utropicmedia/storj-influxdb/wiki/#testing)
 * [Flow Diagram](//github.com/utropicmedia/storj-influxdb/wiki/#flow-diagram)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Futropicmedia%2Fstorj-influxdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Futropicmedia%2Fstorj-influxdb?ref=badge_large)
